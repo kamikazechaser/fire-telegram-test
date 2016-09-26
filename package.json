@@ -1,0 +1,17 @@
+{
+  "name": "r-quiz-b",
+  "version": "1.0.0",
+  "description": "Firebase for r-quiz-b",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^3.4.0",
+    "moment": "^2.15.1",
+    "node-telegram-bot-api-latest": "^0.2.1",
+    "rangi": "^1.0.1"
+  }
+}
